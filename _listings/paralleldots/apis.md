@@ -19,7 +19,7 @@ apis:
   tags: Machine Learning
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/machine-learning/master/_listings/paralleldots/sentiment-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/machine-learning/master/_listings/paralleldots/emotion-post.md
 x-common:
 - type: x-blog
   url: https://blog.paralleldots.com/
