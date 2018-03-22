@@ -19,7 +19,7 @@ apis:
   tags: Machine Learning
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/text-parser-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/custom-classifier-post.md
 x-common:
 - type: x-blog
   url: https://blog.paralleldots.com/
