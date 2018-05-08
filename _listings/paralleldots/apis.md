@@ -6,8 +6,8 @@ x-kinRank: "9"
 x-alexaRank: ""
 tags:
 - Machine Learning
-created: "2018-03-23"
-modified: "2018-03-23"
+created: "2018-05-08"
+modified: "2018-05-08"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -19,7 +19,7 @@ apis:
   tags: Machine Learning
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/multilang-keywords-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/sentiment-post.md
 x-common:
 - type: x-blog
   url: https://blog.paralleldots.com/
