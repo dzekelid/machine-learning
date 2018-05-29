@@ -11,6 +11,20 @@ specificationVersion: "0.14"
 apis: []
 tags: Machine Learning
 include:
+- name: AWS Rekognition
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/aws-rekognition/apis.yaml
+- name: AWS Machine Learning
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/aws-machine-learning/apis.yaml
+- name: Google Cloud Natural Language
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-natural-language/apis.yaml
+- name: Google Cloud Machine Learning Engine
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-machine-learning-engine/apis.yaml
+- name: Google Cloud Prediction
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-prediction/apis.yaml
+- name: Azure Cognitive Services
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/azure-cognitive-services/apis.yaml
+- name: Azure Machine Learning
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/azure-machine-learning/apis.yaml
 - name: ParallelDots
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/apis.yaml
 - name: IBM Watson
