@@ -5,7 +5,7 @@ description: This is a repository of machine learning APIs, self-contained as a 
   operations.
 image: http://template.streamdata.gallery/assets/machine-learning.png
 created: "2018-02-24"
-modified: "2018-05-28"
+modified: "2018-06-20"
 url: http://machine-learning.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
