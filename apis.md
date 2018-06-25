@@ -5,7 +5,7 @@ description: This is a repository of machine learning APIs, self-contained as a 
   operations.
 image: http://template.streamdata.gallery/assets/machine-learning.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://machine-learning.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
@@ -25,10 +25,10 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/azure-cognitive-services/apis.yaml
 - name: Azure Machine Learning
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/azure-machine-learning/apis.yaml
-- name: ParallelDots
-  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/apis.yaml
 - name: IBM Watson
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/ibm-watson/apis.yaml
+- name: ParallelDots
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
