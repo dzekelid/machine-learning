@@ -7,7 +7,6 @@ info:
   description: Refreshes token, accepts expired token and generates a new one (if
     the application binding / service key is still valid)
   version: 1.0.0
-host: ibm-watson-ml.mybluemix.net
 basePath: v3/
 schemes:
 - http
@@ -15,6 +14,7 @@ produces:
 - application/json
 consumes:
 - application/json
+host: ibm-watson-ml.mybluemix.net
 paths:
   /identity/token:
     get:

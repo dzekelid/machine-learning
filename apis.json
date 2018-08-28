@@ -1,0 +1,698 @@
+{
+	"name": "Streadata.io API Gallery - Machine Learning",
+	"description": "This is a repository of machine learning APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/machine-learning.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://machine-learning.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "BigML",
+			"x-api-slug": "bigml",
+			"description": "Machine Learning made beautifully simple for everyone.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/159-bigml.jpg",
+			"humanURL": "https://bigml.com/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/bigml/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wolfram|Alpha",
+			"x-api-slug": "wolframalpha",
+			"description": "Compute answers using Wolframs breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/278-wolfram|alpha.jpg",
+			"humanURL": "http://wolframalpha.com",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/wolframalpha/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Repustate",
+			"x-api-slug": "repustate",
+			"description": "Sentiment analysis and text analytics via a simple to use API. Repustate can analyze text in multiple languages for sentiment and semantic insights.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/465-repustate.jpg",
+			"humanURL": "https://www.repustate.com/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/repustate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PredictiveIntent",
+			"x-api-slug": "predictiveintent",
+			"description": "This website is for sale! predictiveintent.com is your first and best source for all of the information youre looking for. From general topics to more of what you would expect to find here, predictiveintent.com has it all. We hope you find what you ar...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/639-predictiveintent.jpg",
+			"humanURL": "http://www.predictiveintent.com",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/predictiveintent/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CEPT Systems",
+			"x-api-slug": "cept-systems",
+			"description": "3scales API Management platform gives you the tools you need to take control of your API. Trusted by more customers than any other vendor.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1391-cept-systems.jpg",
+			"humanURL": "https://cept.3scale.net/docs",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/cept-systems/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TextRazor",
+			"x-api-slug": "textrazor",
+			"description": "The service provides analysis of selected text passages to identify named entities and statements of fact with disambiguation to distinguish similar text strings. It applies machine learning algorithms and natural language processing to connect a text sample with a knowledge base and identify known elements and their relationships. API methods support submission of a text sample to be parsed.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/textrazor.gif",
+			"humanURL": "http://www.textrazor.com",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/textrazor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Datumbox",
+			"x-api-slug": "datumbox",
+			"description": "Build quickly and easily Intelligent Applications by using the power of Machine Learning!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11516-datumbox.jpg",
+			"humanURL": "http://datumbox.com",
+			"baseURL": "https://api.datumbox.com/1.0/",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/datumbox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM Watson",
+			"x-api-slug": "ibm-watson",
+			"description": "Meet IBM Watson, a cognitive system that enables a new partnership between people and computers that enhances and scales human expertise. Watson has been learning the language of professions and is trained by experts to work across many different industries.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ibm-watson-logo.png",
+			"humanURL": "https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/",
+			"baseURL": "https://ibm-watson-ml.mybluemix.net/v3/",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/ibm-watson/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Algorithmia",
+			"x-api-slug": "algorithmia",
+			"description": "Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art algorithms are always live and accessible to anyone.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11780-algorithmia.jpg",
+			"humanURL": "https://algorithmia.com",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/algorithmia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bitext",
+			"x-api-slug": "bitext",
+			"description": "Bitext delivers the most precise and granular text analytics solution on the market, with an accuracy rate above 90%. We are computational linguists first. Our technology really understands sentence structure and its different layers of meaning, so it always produces the richest results.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bitext-logo-620px.png",
+			"humanURL": "https://www.bitext.com/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/bitext/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dandelion API",
+			"x-api-slug": "dandelion-api",
+			"description": "Semantic Text Analytics API: From text to actionable data: extract meaning from unstructured text and put it in context with a simple API.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18951-dandelion-api.jpg",
+			"humanURL": "https://dandelion.eu",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/dandelion-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Meaning Cloud",
+			"x-api-slug": "meaning-cloud",
+			"description": "MeaningCloud is the easiest, most powerful and most affordable way to extract the meaning of all kind of unstructured content: social conversation, articles, documents, etc. MeaningCloud extracts insights (valuable information) from multilingual, multimedia contents. MeaningCloud provides text analytics functionality for: - Text Classification - Entities and Topics Extraction - Sentiment, Opinion and Reputation Analysis - Clustering. - Voice of the Customer/Employee/Patient Analytics",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/LogoMeaningCloud650x264.png",
+			"humanURL": "https://www.meaningcloud.com/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/meaning-cloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Aylien",
+			"x-api-slug": "aylien",
+			"description": "Text Analysis API | Natural Language Processing",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20034-aylien.jpg",
+			"humanURL": "http://aylien.com/",
+			"baseURL": "https://api.newsapi.aylien.com//api/v1",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/aylien/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MATLAB",
+			"x-api-slug": "matlab",
+			"description": "MathWorks develops, sells, and supports MATLAB and Simulink products.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20038-matlab.jpg",
+			"humanURL": "http://www.mathworks.com/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/matlab/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Keplr",
+			"x-api-slug": "keplr",
+			"description": "Keplr turns datasets into prediction engines.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/keplr.png",
+			"humanURL": "http://keplr.io/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/keplr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TensorFlow",
+			"x-api-slug": "tensorflow",
+			"description": "TensorFlow&trade; is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.",
+			"image": "",
+			"humanURL": "https://www.tensorflow.org/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/tensorflow/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Turi",
+			"x-api-slug": "turi",
+			"description": "Turi provides an agile machine learning platform for developers to build intelligent applications.",
+			"image": "",
+			"humanURL": "https://turi.com/",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/turi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Rekognition",
+			"x-api-slug": "aws-rekognition",
+			"description": "Amazon Rekognition is a service that makes it easy to add image analysis to your applications. With Rekognition, you can detect objects, scenes, and faces in images. You can also search and compare faces. Rekognition&rsquo;s API enables you to quickly add sophisticated deep learning-based visual search and image classification to your applications.Amazon Rekognition is based on the same proven, highly scalable, deep learning technology developed by Amazon&rsquo;s computer vision scientists to analyze billions of images daily for Prime Photos. Amazon Rekognition uses deep neural network models to detect and label thousands of objects and scenes in your images, and we are continually adding new labels and facial recognition features to the service.Rekognition&rsquo;s API lets you easily build powerful visual search and discovery into your applications. With Amazon Rekognition, you only pay for the images you analyze and the face metadata you store. There are no minimum fees and there are no upfront commitments.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-rekognition.png",
+			"humanURL": "https://aws.amazon.com/rekognition/",
+			"baseURL": ":///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/aws-rekognition/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Machine Learning",
+			"x-api-slug": "aws-machine-learning",
+			"description": "Amazon Machine Learning is a service that makes it easy for developers of all skill levels to use machine learning technology. Amazon Machine Learning provides visualization tools and wizards that guide you through the process of creating machine learning (ML) models without having to learn complex ML algorithms and technology. Once your models are ready, Amazon Machine Learning makes it easy to obtain predictions for your application using simple APIs, without having to implement custom prediction generation code, or manage any infrastructure.Amazon Machine Learning is based on the same proven, highly scalable, ML technology used for years by Amazon&rsquo;s internal data scientist community. The service uses powerful algorithms to create ML models by finding patterns in your existing data. Then, Amazon Machine Learning uses these models to process new data and generate predictions for your application.Amazon Machine Learning is highly scalable and can generate billions of predictions daily, and serve those predictions in real-time and at high throughput. With Amazon Machine Learning, there is no upfront hardware or software investment, and you pay as you go, so you can start small and scale as your application grows.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonMachineLearning.png",
+			"humanURL": "https://aws.amazon.com/machine-learning/",
+			"baseURL": ":///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/aws-machine-learning/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Natural Language",
+			"x-api-slug": "google-cloud-natural-language",
+			"description": "Google Cloud Natural Language API reveals the structure and meaning of text by offering powerful machine learning models in an easy to use REST API. You can use it to extract information about people, places, events and much more, mentioned in text documents, news articles or blog posts. You can use it to understand sentiment about your product on social media or parse intent from customer conversations happening in a call center or a messaging app. You can analyze text uploaded in your request or integrate with your document storage on Google Cloud Storage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png",
+			"humanURL": "https://cloud.google.com/natural-language/",
+			"baseURL": "://language.googleapis.com//",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-natural-language/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Machine Learning Engine",
+			"x-api-slug": "google-cloud-machine-learning-engine",
+			"description": "Google Cloud Machine Learning Engine is a managed service that enables you to easily build machine learning models, that work on any type of data, of any size. Create your model with the powerful TensorFlow framework that powers many Google products, from Google Photos to Google Cloud Speech. Build models of any size with our managed scalable infrastructure. Your trained model is immediately available for use with our global prediction platform that can support thousands of users and TBs of data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-ml.png",
+			"humanURL": "https://cloud.google.com/ml-engine/",
+			"baseURL": "://ml.googleapis.com//",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-machine-learning-engine/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Prediction",
+			"x-api-slug": "google-cloud-prediction",
+			"description": "Google Cloud Prediction API provides a RESTful API to build Machine Learning models. Predictions cloud-based machine learning tools can help analyze your data to add various features to your applications, such as customer sentiment analysis, spam detection, recommendation systems, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-prediction-api-500x500.jpg",
+			"humanURL": "https://cloud.google.com/prediction/docs/developer-guide",
+			"baseURL": "://www.googleapis.com//prediction/v1.6/projects",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-prediction/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Speech",
+			"x-api-slug": "google-speech",
+			"description": "Google Cloud Speech API enables developers to convert audio to text by applying powerful neural network models in an easy to use API. The API recognizes over 80 languages and variants, to support your global user base. You can transcribe the text of users dictating to an application&rsquo;s microphone, enable command-and-control through voice, or transcribe audio files, among many other use cases. Recognize audio uploaded in the request, and integrate with your audio storage on Google Cloud Storage, by using the same technology Google uses to power its own products.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/speech-api-lead_2x.png",
+			"humanURL": "https://cloud.google.com/speech/",
+			"baseURL": "://speech.googleapis.com//",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-speech/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Vision",
+			"x-api-slug": "google-cloud-vision",
+			"description": "Google Cloud Vision API enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy to use REST API. It quickly classifies images into thousands of categories (e.g., sailboat, lion, Eiffel Tower), detects individual objects and faces within images, and finds and reads printed words contained within images. You can build metadata on your image catalog, moderate offensive content, or enable new marketing scenarios through image sentiment analysis. Analyze images uploaded in the request or integrate with your image storage on Google Cloud Storage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-vision-what-is-it.png",
+			"humanURL": "https://cloud.google.com/vision/",
+			"baseURL": "://vision.googleapis.com//",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-vision/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Cognitive Services",
+			"x-api-slug": "azure-cognitive-services",
+			"description": "Enable natural and contextual interaction with tools that augment users experiences using the power of machine-based intelligence. Tap into an ever-growing collection of powerful artificial intelligence algorithms for vision, speech, language, and knowledge.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cognitive-services.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/cognitive-services/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/azure-cognitive-services/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Machine Learning",
+			"x-api-slug": "azure-machine-learning",
+			"description": "Azure Machine Learning lets you easily design, test, operationalize, and manage predictive analytics solutions in the cloud. Azure Machine Learning was designed for applied machine learning. Use best-in-class algorithms and a simple drag-and-drop interface&mdash;and go from idea to deployment in a matter of clicks. Try it free. If youre a developer who wants the data science built in, check out our APIs and Azure Marketplace.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-simple-scalable-cutting-edge.jpg",
+			"humanURL": "https://azure.microsoft.com/en-us/services/machine-learning/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/azure-machine-learning/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pienso",
+			"x-api-slug": "pienso",
+			"description": "The Machine Learning Platform for non-programmers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28147-pienso-com.jpg",
+			"humanURL": "http://pienso.com",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/pienso/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ParallelDots",
+			"x-api-slug": "paralleldots",
+			"description": "ParallelDots is one of the best applied AI research groups in the world. We work with enterprises globally to tackle challenging business problems and create the winners of tomorrow. We also provide AI consulting services to explore the what, why, how and who about deploying AI in businesses. Try-out our cutting edge text analysis APIs and join the community of 1,000+ global users. Contact us at contact@paralleldots.com and tell us about the challenging business problems that you are facing.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/paralleldots-logo.png",
+			"humanURL": "https://www.paralleldots.com/",
+			"baseURL": "https://apis.paralleldots.com//v3",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Indico",
+			"x-api-slug": "indico",
+			"description": "indico turns raw text and image data into human insights. We???re lowering the barriers to the development, integration, and customization of machine learning algorithms by providing developer-friendly tools and APIs for building smarter software",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28243-indico-io.jpg",
+			"humanURL": "https://indico.io",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/indico/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Figure Eight",
+			"x-api-slug": "figure-eight",
+			"description": "Figure Eight is the essential Human-in-the-Loop AI platform for data science &amp; machine learning teams. Our software platform trains, tests, and tunes machine learning models to make AI work in the real world. We support a wide range of data types&ndash;text, image, audio, and video&ndash;and use cases, including autonomous vehicles, consumer product identification, natural language processing, search relevance, intelligent chatbots, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28351-www-figure-eight-com.jpg",
+			"humanURL": "https://www.figure-eight.com",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/figure-eight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "UniBit",
+			"x-api-slug": "unibit",
+			"description": "UniBit is an Interactive News publishing company powered by Natural Language Processing and Machine Intelligence. UniBit deploys data-based newsfeeds and handles search queries to fulfill information demand.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28376-www-unibit-ai.jpg",
+			"humanURL": "https://www.unibit.ai",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/unibit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atooma - Resonance AI",
+			"x-api-slug": "atooma--resonance-ai",
+			"description": "Resonance AI makes devices use IoE and big data in order to forecast user problems, and solve them with personalized automation and suggestions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28415-www-resonance-ai-com.jpg",
+			"humanURL": "http://www.resonance-ai.com",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/atooma--resonance-ai/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Geneea",
+			"x-api-slug": "geneea",
+			"description": "Geneea helps you analyze large amounts of text. Whether it is Facebook, blogs, e-mails or legal documents in your archives. Within seconds.     Dont change your business processes. Simply plug in the output of The Interpretor, our powerful software p...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/geneea-logo.png",
+			"humanURL": "https://www.geneea.com",
+			"baseURL": "https://api.geneea.com//",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/geneea/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "InData Labs",
+			"x-api-slug": "indata-labs",
+			"description": "InData Labs provides data science consulting, custom AI-powered software development, and data science training. Focusing on predictive analytics, natural language processing, and computer vision, we help businesses innovate with AI, enrich customer in...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28778-indatalabs-com.jpg",
+			"humanURL": "https://indatalabs.com",
+			"baseURL": "https:///",
+			"tags": "Machine Learning",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/indata-labs/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Machine Learning",
+	"include": [
+		{
+			"name": "BigML",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/bigml/apis.yaml"
+		},
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "Wolfram|Alpha",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/wolframalpha/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "Repustate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/repustate/apis.yaml"
+		},
+		{
+			"name": "PredictiveIntent",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/predictiveintent/apis.yaml"
+		},
+		{
+			"name": "CEPT Systems",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/cept-systems/apis.yaml"
+		},
+		{
+			"name": "TextRazor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/textrazor/apis.yaml"
+		},
+		{
+			"name": "Datumbox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/datumbox/apis.yaml"
+		},
+		{
+			"name": "IBM Watson",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/ibm-watson/apis.yaml"
+		},
+		{
+			"name": "Algorithmia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/algorithmia/apis.yaml"
+		},
+		{
+			"name": "Bitext",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/bitext/apis.yaml"
+		},
+		{
+			"name": "Dandelion API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/dandelion-api/apis.yaml"
+		},
+		{
+			"name": "Meaning Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/meaning-cloud/apis.yaml"
+		},
+		{
+			"name": "Aylien",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/aylien/apis.yaml"
+		},
+		{
+			"name": "MATLAB",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/matlab/apis.yaml"
+		},
+		{
+			"name": "Keplr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/keplr/apis.yaml"
+		},
+		{
+			"name": "TensorFlow",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/tensorflow/apis.yaml"
+		},
+		{
+			"name": "Turi",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/turi/apis.yaml"
+		},
+		{
+			"name": "AWS Rekognition",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/aws-rekognition/apis.yaml"
+		},
+		{
+			"name": "AWS Machine Learning",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/aws-machine-learning/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Natural Language",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-natural-language/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Machine Learning Engine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-machine-learning-engine/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Prediction",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-prediction/apis.yaml"
+		},
+		{
+			"name": "Google Speech",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-speech/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Vision",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/google-cloud-vision/apis.yaml"
+		},
+		{
+			"name": "Azure Cognitive Services",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/azure-cognitive-services/apis.yaml"
+		},
+		{
+			"name": "Azure Machine Learning",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/azure-machine-learning/apis.yaml"
+		},
+		{
+			"name": "Pienso",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/pienso/apis.yaml"
+		},
+		{
+			"name": "ParallelDots",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/paralleldots/apis.yaml"
+		},
+		{
+			"name": "Indico",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/indico/apis.yaml"
+		},
+		{
+			"name": "Figure Eight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/figure-eight/apis.yaml"
+		},
+		{
+			"name": "UniBit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/unibit/apis.yaml"
+		},
+		{
+			"name": "Atooma - Resonance AI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/atooma--resonance-ai/apis.yaml"
+		},
+		{
+			"name": "Geneea",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/geneea/apis.yaml"
+		},
+		{
+			"name": "InData Labs",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/machine-learning/master/_listings/indata-labs/apis.yaml"
+		}
+	]
+}

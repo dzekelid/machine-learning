@@ -9,7 +9,6 @@ info:
     Receives the feedback data and stores it in the feedback store
     defined in learning configuration
   version: 1.0.0
-host: ibm-watson-ml.mybluemix.net
 basePath: v3/
 schemes:
 - http
@@ -17,6 +16,7 @@ produces:
 - application/json
 consumes:
 - application/json
+host: ibm-watson-ml.mybluemix.net
 paths:
   /identity/token:
     get:
